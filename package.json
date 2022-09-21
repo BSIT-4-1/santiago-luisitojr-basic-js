@@ -1,0 +1,11 @@
+{
+  "name": "bsit-4-1-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic.js",
+  "scripts": {
+    "start": "node ."  
+  },
+  "author": "",
+  "license": "ISC"
+}
